@@ -1,0 +1,31 @@
+{
+  "hash": "158e5f96",
+  "browserHash": "bbc8e00d",
+  "optimized": {
+    "vue": {
+      "file": "F:/project/github.io/docs/.vuepress/.cache/vue.js",
+      "src": "F:/project/github.io/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "F:/project/github.io/docs/.vuepress/.cache/vue-router.js",
+      "src": "F:/project/github.io/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "F:/project/github.io/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "F:/project/github.io/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "F:/project/github.io/docs/.vuepress/.cache/nprogress.js",
+      "src": "F:/project/github.io/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "F:/project/github.io/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "F:/project/github.io/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
